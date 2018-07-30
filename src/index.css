@@ -1,0 +1,315 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+html,body{
+  height: 100%;
+  background-color: #f5f5f5 !important;
+}
+.am-grid-icon{
+  transform: scale(2);
+  margin-bottom: 10px;
+}
+.am-grid-item-inner-content{
+  height: 80px !important;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.am-wingblank.am-wingblank-lg{
+  margin: 0 !important;
+}
+
+.list{
+  overflow: hidden;
+  /* padding: 0; */
+  padding: 0 2%;
+}
+.list li{
+  width: 48%;
+  float: left;
+  list-style: none;
+  margin: 1%;
+  position: relative;
+}
+.list li img{
+  width: 100%;
+}
+.list li span{
+  position: absolute;
+  bottom: 8%;
+  left: 50%;
+  width: 100%;
+  color: #fefefe;
+  font-size: 14px;
+  text-shadow: 0px 1px 0px rgba(0,0,0,0.7);
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  transform: translate(-50%);
+}
+
+.findSmallPic{
+  padding-top: 44px;
+  border-bottom: 1px solid #ddd;
+  background-color: #fefefe;
+}
+.findSmallPic img{
+  width: 22%;
+  margin: 1%;
+}
+
+.findList{
+  background-color: #f5f5f5;
+  list-style: none;
+  padding: 0;
+}
+.findList li{
+  background-color: #fefefe;
+  border-bottom: 1px solid #ddd;
+  border-top: 1px solid #ddd;
+  margin-bottom: 10px;
+  padding: 10px;
+  text-align: left;
+}
+.findList li p{
+  margin: 0;
+  font-size: 16px;
+}
+.findList li span{
+  display: inline-block;
+  height: 18px;
+  line-height: 18px;
+  font-size: 12px;
+  color: #01a1ea;
+  border: 1px solid #01a1ea;
+  border-radius: 2px;
+  padding: 0px 4px;
+  margin: 8px 0;
+}
+.findList .type1 img{
+  width: 100%;
+}
+.findList .type2 img{
+  width: 30%;
+}
+.findListMsg{
+  float: right;
+  width: 66%;
+}
+.findListMsg h3{
+  font-size: 15px;
+  color: #333;
+  margin: 5px 3px;
+}
+.findListMsg p{
+  margin: 5px 0 !important;
+  font-size: 12px !important;
+  color: #999;
+  line-height: 12px;
+}
+.findListMsg p img{
+  width: 18px !important;
+  height: 18px;
+  position: relative;
+  top: 2px;
+}
+.start img{
+  width: 16px !important;
+  height: 16px;
+  margin: 0 2px;
+}
+
+.foodSwitch{
+  height: 30px;
+  margin: 16px auto 16px;
+  border: 1px solid #ff4c35;
+  text-align: center;
+  border-radius: 6px;
+  overflow: hidden;
+  display: inline-block;
+  vertical-align: top;
+  font-size: 0px;
+}
+.foodSwitch span{
+  display: inline-block;
+  vertical-align: top;
+  width: 80px;
+  font-size: 12px;
+  color: #ff4c35;
+  line-height: 30px;
+  height: 30px;
+}
+.foodSwitch span:first-child{
+  border-right: 1px solid #ff4c35;
+  background-color: #ff4c35;
+  color: #fefefe;
+}
+
+.foodList{
+  list-style: none;
+  background-color: #fefefe;
+  margin: 0;
+  padding: 0;
+}
+.foodList li{
+  margin-top: 20px;
+  padding: 0 10px;
+  overflow: hidden;
+  border-bottom: 1px solid #ddd;
+}
+.foodList li:last-child{
+  border-bottom: none;
+}
+.left{
+  float: left;
+  width: 10%;
+}
+.left img{
+  width: 100%;
+}
+.right{
+  float: right;
+  width: 88%;
+  text-align: left;
+}
+.right h3{
+  color: #ff5151;
+  font-size: 14px;
+  line-height: 18px;
+  margin: 2px 0;
+}
+.right .lip{
+  color: #999;
+  font-size: 12px;
+  line-height: 12px;
+  margin: 0;
+}
+.right .lip span{
+  color: #1995f5;
+  font-size: 12px;
+  line-height: 12px;
+  margin-left: 5px;
+}
+.msg{
+  font-size: 16px;
+  color: #000;
+  line-height: 24px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin: 5px 0;
+}
+.imgList{
+  overflow: hidden;
+}
+.imgList img{
+  width: 30%;
+  margin: 1%;
+  float: left;
+}
+.zan{
+  float: right;
+  margin-bottom: 15px;
+  margin-right: 10px;
+  margin-top: 5px;
+}
+.zan img{
+  vertical-align: middle;
+  height: 12px;
+}
+.zan span{
+  margin-right: 10px;
+}
+.zan span,.zan em{
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  color: #aaa;
+  line-height: 18px;
+}
+
+.am-pull-to-refresh-indicator{
+  background-color: #fefefe;
+}
+
+.mineHead{
+  font-size: 18px;
+  color: #000;
+  line-height: 50px;
+  text-align: center;
+  margin: 0;
+  background-color: #fefefe;
+  position: relative;
+}
+.mineInp{
+  margin-top: 20px;
+}
+.mineInp input{
+  text-indent: 20px;
+  width: 100%;
+  height: 44px;
+  border: none;
+}
+.mineInp input:first-child{
+  border-bottom: 1px solid #ddd;
+}
+.mineLogin button{
+  width: 90%;
+  background: #ff5151;
+  color: #fff;
+  line-height: 44px;
+  height: 44px;
+  margin: 16px 5% 4px;
+  border-radius: 2px;
+  text-align: center;
+  font-size: 16px;
+  border: none;
+}
+.mineLogin p{
+  width: 100%;
+  height: 44px;
+  line-height: 44px;
+  font-size: 14px;
+  color: #999;
+  text-align: center;
+  margin: 0px;
+}
+.mineLink{
+  text-align: center;
+  margin-top: 30px;
+}
+.mineLink a{
+  display: inline-block;
+  width: 18%;
+}
+.mineLink a:first-child{
+  margin-right: 8%;
+}
+.mineLink a img{
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.am-navbar-left{
+  flex: 1 !important;
+}
+.am-navbar-title{
+  flex: 8 !important;
+}
+.am-navbar-right{
+  flex: 1 !important;
+  position: relative;
+  left: -82%;
+}
+.am-navbar{
+  background-color: #f5f5f5 !important;
+}
+.am-icon-xs{
+  width: 34px !important;
+  height: 34px !important;
+  position: relative;
+  top: -8px;
+  left: -8px;
+}
+.am-popover-arrow{
+  background-color: #333 !important;
+}

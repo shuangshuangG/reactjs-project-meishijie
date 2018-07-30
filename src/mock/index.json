@@ -1,0 +1,197 @@
+{
+    "bannerData": [
+        {
+            "img": "http://s1.ig.meishij.net/p/20180723/5e126fb6ed0a368d1b1560c6286c50a7.jpg",
+            "title": "异国|肠仔包",
+            "msg": "一个肠仔包，一杯牛奶，些些蔬菜，便是美好的早餐！",
+            "img1": "http://s1.ig.meishij.net/p/20180723/f3ee425fa351d03bfb6d7a891b1285de.jpg",
+            "title1": "地方|河南菜馍",
+            "msg1": "河南地方特色早餐饼！",
+            "img2": "http://s1.ig.meishij.net/p/20180723/6103a1a1cf46f0e94e9adee2ea93e852.jpg",
+            "title2": "芡实南瓜粥",
+            "msg2": "暑热的天气来一碗芡实南瓜粥去除暑气和湿热！",
+            "type": "早餐",
+            "typeMsg": "早餐的好营养来自食材的好搭配"
+        },
+        {
+            "img": "http://s1.ig.meishij.net/p/20180723/9e81b8295f3baab2995276e654cb12f0.jpg",
+            "title": "营养|菌菇炖老鸭",
+            "msg": "菌菇和老鸭的食材搭配是增强免疫力的优质搭配！",
+            "img1": "http://s1.ig.meishij.net/p/20180723/810f769c3b076f759c6d023834c0a4e9.jpg",
+            "title1": "鲜美|鸡腿菇蒸排骨",
+            "msg1": "鸡腿菇和排骨一起蒸，保留了食材的更多营养！",
+            "img2": "http://s1.ig.meishij.net/p/20180723/44893bfd18c8db2522986d9e61d9b7b1.jpg",
+            "title2": "素炒荷兰豆",
+            "msg2": "清炒的荷兰豆口感清脆，多汁清甜！",
+            "type": "午餐",
+            "typeMsg": "食材之间的合理搭配可以让菜肴更具营养价值"
+        },
+        {
+            "img": "http://s1.ig.meishij.net/p/20180723/e16f905433613c72e941a5d277979fc2.jpg",
+            "title": "创意|苹果山药司康",
+            "msg": "一款苹果司康，简单易做，能量低！",
+            "img1": "http://s1.ig.meishij.net/p/20180723/7a89a711bbf2a80a78e18076a2cc0a4b.jpg",
+            "title1": "颜值|水晶桂花糕",
+            "msg1": "水晶桂花糕，一款有300年历史的经典美食！",
+            "img2": "http://s1.ig.meishij.net/p/20180723/06f5e56e8fd60018ebcd29a306ced629.jpg",
+            "title2": "香甜菠萝派",
+            "msg2": "用飞饼皮代替酥皮，享用美食也变得快捷多了！",
+            "type": "下午茶",
+            "typeMsg": "去探索才发现，有些美食已经有着悠久的历史"
+        },
+        {
+            "img": "http://s1.ig.meishij.net/p/20180723/47de0deb06a5f3b1c1cce8e87d57b4b5.jpg",
+            "title": "豪爽|蒜香手抓排骨",
+            "msg": "用手拿着排骨啃着吃，排骨吃起来似乎更香了！",
+            "img1": "http://s1.ig.meishij.net/p/20180723/6a454f7febcd17dc86453882b45af6b1.jpg",
+            "title1": "鲜美|薄荷蛤蜊",
+            "msg1": "炒一盘蛤蜊，一口一个嗦进嘴里，感受那份鲜美！",
+            "img2": "http://s1.ig.meishij.net/p/20180723/331ab977bb7a3dd86ec22676353aea1a.jpg",
+            "title2": "泡鸡爪",
+            "msg2": "夏天来上一份泡鸡爪，开胃下饭！",
+            "type": "晚餐",
+            "typeMsg": "夏天，吃海鲜正当时！"
+        },
+        {
+            "img": "http://s1.ig.meishij.net/p/20180723/5c39d016d35825827734573d41c34862.jpg",
+            "title": "创新|夏日黄瓜小凉“虾”",
+            "msg": "用黄瓜皮做一道夏天的小吃凉“虾”！",
+            "img1": "http://s1.ig.meishij.net/p/20180723/c7272b198d32735c0556c65d0aa179ba.jpg",
+            "title1": "美味|酸菜肉丁炒饭",
+            "msg1": "有菜有肉又开胃的炒饭！",
+            "img2": "http://s1.ig.meishij.net/p/20180723/08aa9c3aff5c03761de6008310540053.jpg",
+            "title2": "莲藕鲜肉包",
+            "msg2": "饿了吃上一个鲜美多汁的大包子，好像回到小时候！",
+            "type": "夜宵",
+            "typeMsg": "深夜饿了的时候，抗饿的食物更能带来满足感"
+        }
+    ],
+    "itemData": [
+        {"icon": "https://static.meishij.net/wap6/images/v6/quanbunew.png", "text": "菜谱分类"},
+        {"icon": "https://static.meishij.net/wap6/images/v6/shipincaipunew.png", "text": "视频菜谱"},
+        {"icon": "https://static.meishij.net/wap6/images/v6/kuaishoucainew.png", "text": "早餐"},
+        {"icon": "https://static.meishij.net/wap6/images/v6/fujinnew.png", "text": "附近"}
+      ],
+    "recommend": [
+        {
+            "img": "https://s1.st.meishij.net/r/72/43/4073322/a4073322_153233753656428.jpg",
+            "title": "傣味酸笋炒木耳"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/216/197/6174466/a6174466_153115065804909.jpg",
+            "title": "辣椒炒茄子"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/216/197/6174466/a6174466_153115247971212.jpg",
+            "title": "丝瓜炒荔枝"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/231/00/2937731/a2937731_152807497454368.jpg",
+            "title": "清炒柳蒿芽"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/123/106/9651623/a9651623_153127842707699.jpg",
+            "title": "皮皮虾两吃"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/231/00/2937731/a2937731_152801967846614.jpg",
+            "title": "清炒蒜黄"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/216/197/6174466/a6174466_153027049730060.jpg",
+            "title": "西葫芦番茄炒蛋"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/123/106/9651623/a9651623_153015682394842.jpg",
+            "title": "巴西mini烤串"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/143/54/3701143/a3701143_153010629443716.jpg",
+            "title": "薄如蝉翼的卷饼#早餐#"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/105/225/1306355/a1306355_152958997805249.jpg",
+            "title": "莴笋炒蛋"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/160/00/9625160/a9625160_152998933862744.jpg",
+            "title": "腊香芋头糕"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/160/00/9625160/a9625160_152998933862744.jpg",
+            "title": "腊香芋头糕"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/174/213/2303424/a2303424_152924245542304.jpg",
+            "title": "豆豉炒苦瓜"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/47/93/1210797/a1210797_152921472235939.jpg",
+            "title": "芹菜炒肉"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/114/34/1258614/a1258614_152887926878769.jpg",
+            "title": "鱼籽寿司"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/229/229/1557479/a1557479_152894155676927.jpg",
+            "title": "虫草花火腿土鸡煲"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/72/43/4073322/a4073322_152855228040472.jpg",
+            "title": "山药芹菜片"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/72/43/4073322/a4073322_152855399929757.jpg",
+            "title": "咖喱金针菇"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/72/43/4073322/a4073322_152855399929757.jpg",
+            "title": "咖喱金针菇"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/73/127/10031823/a10031823_152882042271752.jpg",
+            "title": "酥香炸虾#福临门营养家#"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/246/212/8615746/a8615746_152881574940729.jpg",
+            "title": "香辣烤鱼"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/184/124/2468684/a2468684_152881000547088.jpeg",
+            "title": "日本豆腐蒸虾仁"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/172/188/7672172/a7672172_152877051769311.jpg",
+            "title": "沙虫烧双茄"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/135/186/3484135/a3484135_152876167360560.jpg",
+            "title": "仿真水蜜桃软饼干#下午茶#"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/207/11/9502957/a9502957_152872421279388.jpg",
+            "title": "蒜蓉小龙虾"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/197/168/3542197/a3542197_152870853196312.jpg",
+            "title": "鲜虾炒时蔬"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/19/99/9087269/a9087269_152870648269990.jpg",
+            "title": "蒜薹炒腊肠#午餐#"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/19/99/9087269/a9087269_152870603392050.jpg",
+            "title": "杂蔬排骨焖饭#午餐#"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/157/47/3324407/a3324407_152854509926205.jpg",
+            "title": "香辣红烧肥肠面"
+        },
+        {
+            "img": "https://s1.st.meishij.net/r/106/232/3995606/a3995606_152844528506894.jpg",
+            "title": "西兰花炒肉"
+        }
+    ]
+}
